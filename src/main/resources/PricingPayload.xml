@@ -1,0 +1,190 @@
+<message>
+	<service>
+		<service type="RealTime"
+			releaseTime="2019-10-08T16:41:02-04:00" />
+		<service type="PlattsMarketData"
+			releaseTime="2019-10-08T19:00:00-04:00" />
+	</service>
+
+<num>
+	<dataPoint>
+		<dataPoint symbol="DP130ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="257.86">
+		</dataPoint>
+		<dataPoint symbol="DP131ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="255.20">
+		</dataPoint>
+		<dataPoint symbol="DP133ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="239.79">
+		</dataPoint>
+		<dataPoint symbol="DP134ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="233.30">
+		</dataPoint>
+		<dataPoint symbol="DP211ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="249.69">
+		</dataPoint>
+		<dataPoint symbol="DP212ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="252.94">
+		</dataPoint>
+		<dataPoint symbol="DP213ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="258.91">
+		</dataPoint>
+		<dataPoint symbol="DP214ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="258.76">
+		</dataPoint>
+		<dataPoint symbol="DP216ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="257.64">
+		</dataPoint>
+		<dataPoint symbol="DP221ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="261.60">
+		</dataPoint>
+		<dataPoint symbol="DU130ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="215.71">
+		</dataPoint>
+		<dataPoint symbol="DU131ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="212.06">
+		</dataPoint>
+		<dataPoint symbol="DU133ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="204.90">
+		</dataPoint>
+		<dataPoint symbol="DU134ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="204.52">
+		</dataPoint>
+		<dataPoint symbol="DU211ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="238.77">
+		</dataPoint>
+		<dataPoint symbol="DU212ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="216.33">
+		</dataPoint>
+		<dataPoint symbol="DU213ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="218.08">
+		</dataPoint>
+		<dataPoint symbol="DU214ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="218.97">
+		</dataPoint>
+		<dataPoint symbol="DU216ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="215.60">
+		</dataPoint>
+		<dataPoint symbol="DU221ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="208.40">
+		</dataPoint>
+		<dataPoint symbol="DR130ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="190.92">
+		</dataPoint>
+		<dataPoint symbol="DR131ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="192.59">
+		</dataPoint>
+		<dataPoint symbol="DR133ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="172.22">
+		</dataPoint>
+		<dataPoint symbol="DR134ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="170.02">
+		</dataPoint>
+		<dataPoint symbol="DR211ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="182.77">
+		</dataPoint>
+		<dataPoint symbol="DR212ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="187.72">
+		</dataPoint>
+		<dataPoint symbol="DR213ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="194.91">
+		</dataPoint>
+		<dataPoint symbol="DR214ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="191.98">
+		</dataPoint>
+		<dataPoint symbol="DR216ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="189.37">
+		</dataPoint>
+		<dataPoint symbol="DR221ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="h" trans="N" text="196.90">
+		</dataPoint>
+		<dataPoint symbol="DK130ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="279.10">
+		</dataPoint>
+		<dataPoint symbol="DK131ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="283.10">
+		</dataPoint>
+		<dataPoint symbol="DK133ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="289.60">
+		</dataPoint>
+		<dataPoint symbol="DK134ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="284.90">
+		</dataPoint>
+		<dataPoint symbol="DK211ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="281.35">
+		</dataPoint>
+		<dataPoint symbol="DK212ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="284.25">
+		</dataPoint>
+		<dataPoint symbol="DK213ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="279.75">
+		</dataPoint>
+		<dataPoint symbol="DK216ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="275.60">
+		</dataPoint>
+		<dataPoint symbol="DK221ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="283.10">
+		</dataPoint>
+		<dataPoint symbol="DM130ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="196.07">
+		</dataPoint>
+		<dataPoint symbol="DM131ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="195.60">
+		</dataPoint>
+		<dataPoint symbol="DM133ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="190.50">
+		</dataPoint>
+		<dataPoint symbol="DM134ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="182.60">
+		</dataPoint>
+		<dataPoint symbol="DM211ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="199.14">
+		</dataPoint>
+		<dataPoint symbol="DM212ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="198.00">
+		</dataPoint>
+		<dataPoint symbol="DM213ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="197.23">
+		</dataPoint>
+		<dataPoint symbol="DM214ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="202.60">
+		</dataPoint>
+		<dataPoint symbol="DM216ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="202.70">
+		</dataPoint>
+		<dataPoint symbol="DM221ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="202.26">
+		</dataPoint>
+		<dataPoint symbol="DP130ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="237.24">
+		</dataPoint>
+		<dataPoint symbol="DP131ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="234.58">
+		</dataPoint>
+		<dataPoint symbol="DP133ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="230.50">
+		</dataPoint>
+		<dataPoint symbol="DP134ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="212.60">
+		</dataPoint>
+		<dataPoint symbol="DP211ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="235.14">
+		</dataPoint>
+		<dataPoint symbol="DP212ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="241.56">
+		</dataPoint>
+		<dataPoint symbol="DP213ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="228.54">
+		</dataPoint>
+		<dataPoint symbol="DP214ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="241.96">
+		</dataPoint>
+		<dataPoint symbol="DP216ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="246.76">
+		</dataPoint>
+		<dataPoint symbol="DP221ZZ" permCode="WO"
+			dateTime="2019-10-08T16:30:00-04:00" bate="l" trans="N" text="243.60">
+		</dataPoint>
+	</dataPoint>
+	</num>
+</message>
